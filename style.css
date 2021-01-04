@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background: violet;
+    font-family: 'Yellowtail', cursive;
+    font-weight: bold;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px rgb(243, 116, 137)
+}
+
+.heading_div2
+{
+    font-size: 18px;
+}
+
+#result{
+    background-color: red;
+}
